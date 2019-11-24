@@ -1,0 +1,26 @@
+body {
+        background: radial-gradient(#f6c 15%, rgba(0,0,0,0) 16%), radial-gradient(#6cf 15%, rgba(0,0,0,0) 16%), #fc0;
+        background-position: 0 0, 30px 30px;
+        background-origin: padding-box;
+        background-clip: border-box;
+        background-size: 60px 60px;
+      }
+      @import url('https://fonts.googleapis.com/css?family=Didact+Gothic|Luckiest+Guy&display=swap');
+
+header{
+    font-family: 'Didact Gothic', sans-serif;
+    text-align: center;
+    font-size: 100px;
+    color:#000
+
+}      
+
+.text-muted{
+	color: blue;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
